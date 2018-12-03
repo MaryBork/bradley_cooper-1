@@ -1,0 +1,105 @@
+.bradleycooper {
+     display:block;
+     float: center;
+     text-align: left;
+     background-color: green;
+     font-family: monospace;
+     font-size: 14;
+     color: white;
+
+}
+
+.resume_icon{
+  border: 15px white solid;
+
+}
+
+.contact_icon{
+  border: 15px white solid;
+
+}
+
+.profile{
+     display:block;
+     float: center;
+     text-align: center;
+     background-color: orange;
+     font-family: monospace;
+     font-size: 14;
+     color: white;
+
+
+}
+
+.experience{
+     display:block;
+     float: center;
+     text-align: center;
+     background-color: blue;
+     font-family: monospace;
+     font-size: 14;
+     color: white;
+
+
+}
+
+.education{
+     display:block;
+     float: center;
+     text-align: center;
+     background-color: red;
+     font-family: monospace;
+     font-size: 14;
+     color: white;
+
+}
+.blog{
+     display:block;
+     float: center;
+     text-align: center;
+     background-color: green;
+     font-family: monospace;
+     font-size: 14;
+     color: white;
+
+
+}
+.social_menu{
+     display:block;
+     float: center;
+     text-align: center;
+     background-color: orange;
+     font-family: monospace;
+     font-size: 14;
+     color: white;
+
+
+}
+.contact{
+     display:block;
+     float: center;
+     text-align: center;
+     background-color: blue;
+     font-family: monospace;
+     font-size: 14;
+     color: white;
+
+
+}
+.portfolio{
+     display:block;
+     float: center;
+     text-align: center;
+     background-color: orange;
+     font-family: monospace;
+     font-size: 14;
+     color: white;
+
+}
+.photo{
+     display:block;
+     float: right;
+     text-align: left;
+
+
+}
